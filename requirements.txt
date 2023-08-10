@@ -1,0 +1,21 @@
+docker==6.1.2
+importlib-metadata==6.6.0
+importlib-resources==5.12.0
+matplotlib==3.5.3
+matplotlib-inline==0.1.6
+# mmcv==2.0.0
+# mmcv-full==1.7.0
+numpy==1.21.2
+opencv-python-headless==4.7.0.72
+Pygments==2.15.1
+scikit-image==0.19.3
+scikit-learn==1.0.2
+segmentation-models-pytorch==0.3.2
+scipy==1.7.3
+torch==1.12.0
+torch-tb-profiler==0.4.1
+torchaudio==0.12.0
+torchvision==0.13.0
+tqdm==4.65.0
+ttach==0.0.3
+typing_extensions==4.5.0
